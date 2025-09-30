@@ -24,5 +24,5 @@ func removeDuplicates(arr []int) []int {
 
 func main() {
 	arr := []int{1, 2, 3, 2, 5, 4}
-	fmt.Println(removeDuplicates(arr)) 
+	fmt.Println(removeDuplicates(arr))
 }

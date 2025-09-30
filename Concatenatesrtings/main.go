@@ -33,5 +33,5 @@ func smallestConcat(arr []string) string {
 
 func main() {
 	arr := []string{"aab", "bcddbc", "aa", "aazef"}
-	fmt.Println(smallestConcat(arr)) 
+	fmt.Println(smallestConcat(arr))
 }
